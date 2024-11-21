@@ -1,4 +1,14 @@
-# HALF_ADDER_SUBTRACTOR
+# NAME : S.DINESH RAGHAVENDARA
+# REFERENCE NUMBER  24900081
+
+
+
+   
+   
+   
+   
+   
+ # EXP NO 3 : HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
@@ -34,6 +44,9 @@ Borrow = A’B
 Figure -02 HALF Subtractor
 
 **Truthtable**
+![WhatsApp Image 2024-11-21 at 2 12 38 PM](https://github.com/user-attachments/assets/7909c54a-d799-48e7-9053-bf28cba0295d)
+![WhatsApp Image 2024-11-21 at 2 12 37 PM](https://github.com/user-attachments/assets/fe70e559-2968-482a-b038-4e840c5ab9a4)
+
 
 **Procedure**
 
@@ -52,10 +65,40 @@ Figure -02 HALF Subtractor
 
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 
-Developed by: RegisterNumber:*/
+Developed by: RegisterNumber:24900081*/
+
+
+![half subtractor coding](https://github.com/user-attachments/assets/153416ce-cb9e-4e6b-999d-d9553a0bc850)
+
+
+
+![HALF ADDER CODING](https://github.com/user-attachments/assets/d171e7cc-5862-4d86-a2e0-85de91d5d4e8)
+
+
+
 
 **RTL Schematic**
 
-**Output/TIMING Waveform**
+![HALF ADDER LOGIC DIAGRAM](https://github.com/user-attachments/assets/8fa1063a-c0e5-4638-9872-429c4455c2c7)
+
+
+
+
+![half subtractor logic diagram](https://github.com/user-attachments/assets/9b46d2b4-112f-4eb8-a2b3-a22c600ee219)
+
+
+
+**Output Waveform**
+
+![HALF ADDER](https://github.com/user-attachments/assets/952c3daa-b8af-49f5-8eb8-c50077becf77)
+
+
+
+![Uploading WhatsApp Image 2024-11-21 at 2.25.08 PM.jpeg…]()
+
+
+
 
 **Result:**
+
+Thus half adder and half subtractor circuit is designed and its truth table is verified in Quartus using Verilog programming.
